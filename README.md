@@ -54,9 +54,8 @@ Apasionado por la ciencia de datos y en proceso de transición profesional hacia
 
 ---
 
-## 📁 Estructura del proyecto
-titanic-analysis/
-│
-├── titanic_EDA_JoseDanielMaldonado.ipynb
-├── titanic_EDA_JoseDanielMaldonado.pdf
-├── README.md
+📁 Estructura del proyecto:
+- titanic_EDA_JoseDanielMaldonado.ipynb
+- titanic_EDA_JoseDanielMaldonado.pdf
+- README.md
+
